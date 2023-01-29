@@ -1,4 +1,3 @@
-# stART AI
 # [TEAM T] team-T-repo
 ## Title: AI 창작품의 생성 및 관리를 도와주고, 창작품을 공유하는 SNS형 커뮤니티 플랫폼
 
